@@ -13,7 +13,7 @@ Site web vitrine moderne pour STS, leader du transport en Afrique de l'Ouest.
 
 ```bash
 # 1. Cloner le projet
-git clone [url-du-repo]
+git clone https://github.com/jesuiszed/STSVitrine.git
 
 # 2. Créer l'environnement virtuel
 python -m venv .venv
